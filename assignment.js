@@ -1,3 +1,9 @@
+/**
+ * Folder Link: https://github.com/riajahmedras/assignment3
+ * File Link: https://github.com/riajahmedras/assignment3/blob/main/assignment.js
+ */
+
+
 // Assignment Part: 01. kilometerToMeter
 
 function kilometerToMeter(kilometer){
