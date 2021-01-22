@@ -12,7 +12,7 @@ function kilometerToMeter(kilometer){
    return metre;
    }
    else{
-      return "Your mesuring amount might not be in minus figure."
+      return "Your measuring amount might not be in the minus figure."
    }
 }
 var result = kilometerToMeter(-2.2);
